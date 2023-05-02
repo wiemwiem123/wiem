@@ -1,0 +1,12 @@
+.btn{
+    background-color: rgb(250, 250, 250)
+}
+.title{
+    display: inline-flex;
+    text-align: right;
+    position: relative;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+   
+    
+  }

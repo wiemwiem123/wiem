@@ -1,0 +1,17 @@
+#orange{
+    color: orange;
+    
+}
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+    .title{
+        display: inline-flex;
+        text-align: right;
+        position: relative;
+        justify-content: center;
+        font-family: 'Dancing Script', cursive;
+       
+        
+      }
+      .btn{
+        background-color: rgb(20, 56, 18);
+      }    
